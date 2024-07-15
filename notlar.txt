@@ -1,0 +1,5 @@
+mustafa:55
+ahmet:96
+yunus:67
+burak:100
+burak:100
